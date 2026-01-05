@@ -1,8 +1,8 @@
 # Git Quest Completion Proof ✅
 
-**Name:**  
-**Section:**  
-**GitHub Username:**  
+**Name:Mark John Tangonan**   
+**Section:4B**
+**GitHub Username:tangonanmarkjohn11**  
 
 ## Final Code Word
 (You will discover this in the later levels.)
