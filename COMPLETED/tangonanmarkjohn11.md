@@ -5,11 +5,13 @@
 **GitHub Username:tangonanmarkjohn11**  
 
 ## Final Code Word
-(You will discover this in the later levels.)
+  -SUNSET-19-FOX-7
 
 **Code Word:**  
 
 ## Evidence
-Paste the output of this command (run inside your repo):
-```bash
-git log --oneline -5
+bb846e1 (HEAD -> student-mj, origin/student-mj) FINAL: completed Git Quest
+f754411 Level 9: resolved merge conflict
+45f921e Merge branch 'main' into student-mj
+fc6a30b (main) Level 9: edit template on main for conflict
+31f386c Level 8: opened PR in my fork
